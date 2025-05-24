@@ -1,0 +1,16 @@
+build*/
+*.pro.user
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.log
+*.tmp
+*.user
+*.qrc.depends
+*.autosave
+Makefile*
+moc_*
+ui_*
