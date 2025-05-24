@@ -38,19 +38,6 @@ sudo apt install qtbase5-dev libopencv-dev
 qmake
 make
 ```
-
-## 📁 Структура проекта
-
-```
-QtVideoPlayer/
-├── src/                # .cpp файлы (main, mainwindow, videoplayer, videorecorder)
-├── include/            # .h заголовочные файлы
-├── ui/                 # mainwindow.ui
-├── QtVideoPlayer.pro   # Qt проект-файл
-├── .gitignore
-└── README.md
-```
-
 ## ▶ Использование
 
 1. Нажмите **📂** — выбрать видеофайл
